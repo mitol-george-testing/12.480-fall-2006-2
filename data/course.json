@@ -1,0 +1,38 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Thermodynamics"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geophysics"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "9d4e01b3-4b4c-2a7c-d029-1908830f1e2d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Thermodynamics for Geoscientists",
+  "course_description": "In this course, principles of thermodynamics are used to infer the physical conditions of formation and modification of igneous and metamorphic rocks. The course includes phase equilibria of homogeneous and heterogeneous systems and thermodynamic modeling of non-ideal crystalline solutions. It also surveys the processes that lead to the formation of metamorphic and igneous rocks in the major tectonic environments in the Earth's crust and mantle.\n",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "12.480",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
